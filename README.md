@@ -79,14 +79,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SendyAwaludin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyAwaludin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sendyawldn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendyawldn&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SendyAwaludin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sendyawldn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,7 +94,7 @@
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyAwaludin&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendyawldn&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
@@ -120,10 +120,10 @@
 
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Snake animation](https://raw.githubusercontent.com/SendyAwaludin/SendyAwaludin/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/github-contribution-grid-snake.svg)
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=SendyAwaludin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sendyawldn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 **Thanks for visiting! Don't forget to ⭐ star some repositories if you find them interesting!**
 
