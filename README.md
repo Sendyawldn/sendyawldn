@@ -91,10 +91,10 @@ const sendi: Developer = {
 <div align="center">
 
 <a href="https://github.com/Sendyawldn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sendyawldn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF"/>
+  <img height="180em" src="https://stats-readme-nu.vercel.app/api?username=Sendyawldn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF"/>
 </a>
 <a href="https://github.com/Sendyawldn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendyawldn&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
+  <img height="180em" src="https://stats-readme-nu.vercel.app/api/top-langs/?username=Sendyawldn&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
 </a>
 
 <br/>
