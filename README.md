@@ -86,44 +86,7 @@ const sendi: Developer = {
 
 ---
 
-## 📊 GITHUB STATS
 
-<div align="center">
-
-<a href="https://github.com/Sendyawldn">
-  <img height="180em" src="https://stats-readme-nu.vercel.app/api?username=Sendyawldn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF"/>
-</a>
-<a href="https://github.com/Sendyawldn">
-  <img height="180em" src="https://stats-readme-nu.vercel.app/api/top-langs/?username=Sendyawldn&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Sendyawldn">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sendyawldn&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=58A6FF&sideNums=8B949E" />
-</a>
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sendyawldn&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-[![Sendi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sendyawldn&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
