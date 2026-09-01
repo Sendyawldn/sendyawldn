@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=SENDI%20AWALUDIN&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20System%20Architect&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=🏗️+Building+Scalable+E-Commerce+Platforms;⚡+Backend+%26+Frontend+Polyglot+Developer;🌐+TypeScript+%7C+Go+%7C+PHP+%7C+SQL;🚀+NestJS+%7C+Laravel+%7C+Next.js+%7C+Vue;☁️+Clean+Architecture+%7C+API+Design)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%20👋%20What's%20Up%3F&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Sendi%20Awaludin%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/✉️_sendyawaludin4568@gmail.com-0D1117?style=for-the-badge&labelColor=161B22&color=21262D&logoColor=58A6FF)](mailto:sendyawaludin4568@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Indonesia-0D1117?style=for-the-badge&labelColor=161B22&color=21262D)](https://github.com/Sendyawldn)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sendyawldn&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/Sendyawldn)
+<!-- tech icon row -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,sass,nestjs,laravel,go,rust,python,aws&theme=dark" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sendyawaludin4568@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sendyawldn)
 
 </div>
 
@@ -86,20 +89,32 @@ const sendi: Developer = {
 
 ---
 
+## 🔥 CONTRIBUTIONS & STREAK
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sendyawldn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" />
+
+</div>
+
+---
+
+## 🏆 TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sendyawldn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=5&title=MultiLanguage,Stars,Commits,Followers,Repositories,PullRequest,Experience,Issues,Reviews,StarGazers" />
+
+</div>
+
+---
+
 ## 📊 GITHUB STATS
 
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sendyawldn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendyawldn&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sendyawldn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sendyawldn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -115,12 +130,16 @@ const sendi: Developer = {
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 👻 PAC-MAN CONTRIBUTION GRAPH
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- One-time setup required in your Sendyawldn/Sendyawldn repo — see instructions below -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
