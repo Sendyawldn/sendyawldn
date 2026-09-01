@@ -86,7 +86,32 @@ const sendi: Developer = {
 
 ---
 
+## 📊 GITHUB STATS
 
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sendyawldn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendyawldn&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sendyawldn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sendyawldn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sendyawldn&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
