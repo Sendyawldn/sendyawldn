@@ -57,7 +57,7 @@ jobs:
                   card: stats
                   options: 'username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E'
                   path: profile/stats.svg
-                  token: ${{ secrets.GITHUB_TOKEN }}
+                  token: ${{ secrets.PROFILE_TOKEN }}
 
             - name: generate top languages card
               uses: stats-organization/github-readme-stats-action@v2
@@ -65,14 +65,14 @@ jobs:
                   card: top-langs
                   options: 'username=${{ github.repository_owner }}&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E'
                   path: profile/top-langs.svg
-                  token: ${{ secrets.GITHUB_TOKEN }}
+                  token: ${{ secrets.PROFILE_TOKEN }}
 
             - name: generate trophy card
               uses: Erik-Donath/github-profile-trophy@feature/generate-svg
               with:
                   username: ${{ github.repository_owner }}
                   output_path: profile/trophy.svg
-                  token: ${{ secrets.GITHUB_TOKEN }}
+                  token: ${{ secrets.PROFILE_TOKEN }}
 
             - name: commit generated cards to main
               run: |
