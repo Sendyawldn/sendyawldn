@@ -1,5 +1,9 @@
 name: generate profile graphics
 
+concurrency:
+    group: profile-graphics
+    cancel-in-progress: false
+
 on:
     schedule: # jalan otomatis tiap 24 jam
         - cron: '0 0 * * *'
@@ -80,4 +84,5 @@ jobs:
                   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
                   git add profile/*.svg
                   git commit -m "chore: update profile cards [skip ci]" || echo "no changes to commit"
+                  git pull --rebase origin main
                   git push
