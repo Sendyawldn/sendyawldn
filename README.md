@@ -124,7 +124,7 @@ const sendi: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-nine-pi.vercel.app/graph?username=Sendyawldn&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph-nine-pi.vercel.app/?username=Sendyawldn&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
