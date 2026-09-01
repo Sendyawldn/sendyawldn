@@ -130,6 +130,20 @@ const sendi: Developer = {
 
 ---
 
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sendyawldn/Sendyawldn/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 👻 PAC-MAN CONTRIBUTION GRAPH
 
 <div align="center">
